@@ -1,0 +1,55 @@
+body {
+    background-color: #e8f0f1;
+}
+
+.container {
+    margin: 0;
+    max-width: 100%;
+    text-align: center;
+}
+
+.container h1 {
+    color:#6a7985;
+    font-weight: 300;
+    padding: 50px;
+}
+
+.card-deck {
+    padding: 0px 40px;
+}
+
+.cal__day {
+    box-shadow: 0.2px 0.2px 20px #b6babf;
+}
+
+.card-header {
+    background-color: #b28aed;
+    color: white;
+    text-align: right;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    width: 100%;
+    position: relative;
+    vertical-align: top;
+}
+
+.day--empty {
+    background-color: #bfc3c5;
+}
+
+.day__person {
+    vertical-align: middle;
+    line-height: 200px;
+    display: inline-block;
+}
+
+form {
+    text-align: left;
+    padding: 0px 40px;
+    margin-top: 20px;
+}
